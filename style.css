@@ -489,7 +489,9 @@ button:focus {
 	border-radius: 10px;
 }
 
-
+.mu-about-content-single h4{
+	margin-bottom: 20px;
+}
 
 
 
@@ -907,7 +909,7 @@ color: #fff;
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/testimonials-bg.jpeg");
+	background-image: url("GASage.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -925,7 +927,7 @@ color: #fff;
 	top: 0;
 	right: 0;
 	position: absolute;
-	opacity: 0.84;
+	opacity: 0.50;
 }
 
 .mu-testimonials-area {
@@ -1071,6 +1073,7 @@ color: #fff;
 	display: inline;
 	float: left;
 	width: 100%;
+	padding: 30px;
 }
 
 .mu-contact-form .form-group input {
@@ -1134,6 +1137,8 @@ color: #fff;
 	display: inline;
 	float: left;
 	width: 100%;
+	padding-top: 30px;
+	padding-left: 30px;
 }
 
 .mu-contact-right h4{
